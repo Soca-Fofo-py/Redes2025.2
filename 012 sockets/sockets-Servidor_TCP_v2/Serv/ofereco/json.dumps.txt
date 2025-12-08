@@ -1,0 +1,5 @@
+json.dumps(dicio)
+encode
+
+json.loads(d)
+decode
