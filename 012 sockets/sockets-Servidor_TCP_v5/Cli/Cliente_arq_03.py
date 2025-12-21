@@ -5,7 +5,7 @@ Port_default = 20000
 
 Codificacao = "utf-8"
 Endianess = 'big'
-Tam_buffer = 4096
+Tam_buffer = 1024
 operacoes_disponiveis = [10,"d",20,"l",30,"u"]
 solicit = 64 # Recebe n pedidos
 meu_diretorio = '.\\MeuEscopo\\'
